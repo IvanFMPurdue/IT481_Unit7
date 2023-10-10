@@ -1,0 +1,7 @@
+C:\Users\ivanm\source\repos\IT481_IvanMartinovich_Unit7\bin\Debug\IT481_IvanMartinovich_Unit7.exe.config
+C:\Users\ivanm\source\repos\IT481_IvanMartinovich_Unit7\bin\Debug\IT481_IvanMartinovich_Unit7.exe
+C:\Users\ivanm\source\repos\IT481_IvanMartinovich_Unit7\bin\Debug\IT481_IvanMartinovich_Unit7.pdb
+C:\Users\ivanm\source\repos\IT481_IvanMartinovich_Unit7\obj\Debug\IT481_IvanMartinovich_Unit7.csproj.AssemblyReference.cache
+C:\Users\ivanm\source\repos\IT481_IvanMartinovich_Unit7\obj\Debug\IT481_IvanMartinovich_Unit7.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\IT481_IvanMartinovich_Unit7\obj\Debug\IT481_IvanMartinovich_Unit7.exe
+C:\Users\ivanm\source\repos\IT481_IvanMartinovich_Unit7\obj\Debug\IT481_IvanMartinovich_Unit7.pdb
